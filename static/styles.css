@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center; 
+    background-color: #ddc9c9; 
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.btn-center {
+    display: block;
+    margin: 0 auto; 
+}
